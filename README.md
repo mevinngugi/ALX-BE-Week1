@@ -1,0 +1,1 @@
+Test resolving merge conflicts
